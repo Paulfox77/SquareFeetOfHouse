@@ -1,0 +1,6 @@
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\bin\Debug\DisplaysSqFeetOfHouseA.exe.config
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\bin\Debug\DisplaysSqFeetOfHouseA.exe
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\bin\Debug\DisplaysSqFeetOfHouseA.pdb
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\obj\Debug\DisplaysSqFeetOfHouseA.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\obj\Debug\DisplaysSqFeetOfHouseA.exe
+C:\Users\Joseph\Documents\COURSE WORK\DisplaysSqFeetOfHouseA\DisplaysSqFeetOfHouseA\obj\Debug\DisplaysSqFeetOfHouseA.pdb
